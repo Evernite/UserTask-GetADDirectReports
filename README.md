@@ -1,6 +1,6 @@
 # UserTask-GetADDirectReports
 
-.SYNOPSIS
+	.SYNOPSIS
 		This function retrieves user information for the specified user, then gathers the same information for
 		all direct reports for that user. Optionally, the recursive flag can be set to continue to gather direct
 		reports for each user until there are no further direct reports to pull from.
